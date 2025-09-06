@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aanamishra2407" target="blank"><img src="https://img.shields.io/twitter/follow/aanamishra2407?logo=twitter&style=for-the-badge" alt="aanamishra2407" /></a> </p>
 
-- 🌱 I’m currently learning and exploring ** ML and Deep learning **
+- 🌱 I’m currently learning and exploring **ML and Deep learning**
 
 - 👯 I’m looking to collaborate on **Ml and datascience**
 
